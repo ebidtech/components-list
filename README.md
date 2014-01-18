@@ -1,5 +1,10 @@
 # Components list
 
+## [validator](https://github.com/ebidtech/validator) ##
+
+[![Latest Stable Version](https://poser.pugx.org/ebidtech/validator/v/stable.png)](https://packagist.org/packages/ebidtech/validator)
+ [![Build Status](https://travis-ci.org/ebidtech/validator.png?branch=master)](https://travis-ci.org/ebidtech/validator) [![Coverage Status](https://coveralls.io/repos/ebidtech/validator/badge.png?branch=master)](https://coveralls.io/r/ebidtech/validator?branch=master) [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/ebidtech/validator/badges/quality-score.png?s=38db28f9fc3b7b4286c479c772f4fcd8b4855282)](https://scrutinizer-ci.com/g/ebidtech/validator/) [![Dependency Status](https://www.versioneye.com/user/projects/52da5c4cec137510bf000380/badge.png)](https://www.versioneye.com/user/projects/52da5c4cec137510bf000380)
+
 ## [ebdate](https://github.com/ebidtech/ebdate) ##
 
 [![Latest Stable Version](https://poser.pugx.org/ebidtech/ebdate/v/stable.png)](https://packagist.org/packages/ebidtech/ebdate) [![Build Status](https://travis-ci.org/ebidtech/ebdate.png?branch=master)](https://travis-ci.org/ebidtech/ebdate) [![Coverage Status](https://coveralls.io/repos/ebidtech/ebdate/badge.png?branch=master)](https://coveralls.io/r/ebidtech/ebdate?branch=master) [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/ebidtech/ebdate/badges/quality-score.png?s=0d65743216585bb6c490b0408195a061d4b68ba4)](https://scrutinizer-ci.com/g/ebidtech/ebdate/) [![Dependency Status](https://www.versioneye.com/user/projects/52ced7d1ec13756dd000007c/badge.png)](https://www.versioneye.com/user/projects/52ced7d1ec13756dd000007c)

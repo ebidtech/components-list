@@ -1,5 +1,9 @@
 # Components list
 
+## [common-object](https://github.com/ebidtech/common-object) ##
+
+[![Latest Stable Version](https://poser.pugx.org/ebidtech/common-object/v/stable.png)](https://packagist.org/packages/ebidtech/common-object) [![Build Status](https://travis-ci.org/ebidtech/common-object.png?branch=master)](https://travis-ci.org/ebidtech/common-object) [![Coverage Status](https://coveralls.io/repos/ebidtech/common-object/badge.png?branch=master)](https://coveralls.io/r/ebidtech/common-object?branch=master) [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/ebidtech/common-object/badges/quality-score.png?s=d02365dc27dbeb4cc2618035ccfb996a669e8f14)](https://scrutinizer-ci.com/g/ebidtech/common-object/) [![Dependency Status](https://www.versioneye.com/user/projects/52e3942cec1375b900000105/badge.png)](https://www.versioneye.com/user/projects/52e3942cec1375b900000105)
+
 ## [validator](https://github.com/ebidtech/validator) ##
 
 [![Latest Stable Version](https://poser.pugx.org/ebidtech/validator/v/stable.png)](https://packagist.org/packages/ebidtech/validator)
